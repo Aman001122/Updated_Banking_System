@@ -11,7 +11,7 @@ It allows users to:
 - View balance
 - See mini statement
 
-The project was first made using JSON, but later updated to use SQLite database for better data handling.
+The project was first made using JSON, but later updated to use SQLite database an thi  for better data handling.
 
 PINs are stored securely using hashing, so they are not visible directly.
 
@@ -27,12 +27,6 @@ A basic GUI is also added using Tkinter so the program runs in a popup window in
 - bank.db → database file (auto created)
 - bank.log → log file (auto created)
 
-## How to run
-
-Run the GUI version:
-
-python gui.py
-
 ## Features added
 
 - OOP (classes used)
@@ -41,7 +35,3 @@ python gui.py
 - PIN hashing
 - Logging
 - Simple GUI
-
-## Note
-
-This is a basic project made for learning purposes.
